@@ -1,0 +1,5 @@
+C:\Users\Maks\source\repos\Kontroler\BibliotekaKontoler\bin\Debug\BibliotekaKontoler.pdb
+C:\Users\Maks\source\repos\Kontroler\BibliotekaKontoler\obj\Debug\BibliotekaKontoler.csprojResolveAssemblyReference.cache
+C:\Users\Maks\source\repos\Kontroler\BibliotekaKontoler\obj\Debug\BibliotekaKontoler.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Kontroler\BibliotekaKontoler\obj\Debug\BibliotekaKontoler.dll
+C:\Users\Maks\source\repos\Kontroler\BibliotekaKontoler\obj\Debug\BibliotekaKontoler.pdb
